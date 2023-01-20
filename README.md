@@ -4,9 +4,8 @@ Current Tech Stack I'm working with,
 - JavaScript
 - Node.js
 - Express.js
-- MongodDB
 - React
-- MongoDB
+- MongodDB
 - PostgreSQL
 
 <!---
