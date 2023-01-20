@@ -1,4 +1,13 @@
-👋 Hi, I’m Sumeet a Full Stack Developer
+👋 Hi, I’m Sumeet a Web Developer
+
+Current Tech Stack I'm working with,
+- JavaScript
+- Node.js
+- Express.js
+- MongodDB
+- React
+- MongoDB
+- PostgreSQL
 
 <!---
 sumeetprajapati1996/sumeetprajapati1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
